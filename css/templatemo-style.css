@@ -22,7 +22,13 @@
   font-weight: normal;
   font-style: normal;
 }
-
+#canvas{
+	position:fixed;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+}
 .green {
 	color: #9F3;
 }
