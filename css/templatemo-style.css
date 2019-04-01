@@ -233,10 +233,10 @@ h1, h2, h3, h4, h5 {
   height: 100%;
   width: 100%;
   z-index: 0;
-  background-image: url(../images/bg.jpg);
+  /*background-image: url(../images/bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: fixed;*/
 }
 
 .site-bg-overlay {
@@ -246,7 +246,7 @@ h1, h2, h3, h4, h5 {
   top: 0;
   left: 0;
   z-index: 1;
-  background: rgba(40, 47, 57, 0.4);
+ /* background: rgba(40, 47, 57, 0.4);*/
 }
 
 #page-content {
